@@ -1,11 +1,15 @@
+NOME: Brenno Rodrigues Vilarim Costa
+RA: 1801220
+
+
 - Cadastro;
 - Login adm;
 - Login user comum;
 - Esqueci minha senha
 - Timeline
-	- Bot„o para publicar;
-	- || editar publicaÁ„o;
-	- || apagar publicaÁ„o;
+	- Bot√£o para publicar;
+	- || editar publica√ß√£o;
+	- || apagar publica√ß√£o;
 	- || anexo de arquivos;
 	- || curtir o post;
 	- || comentar o post;
