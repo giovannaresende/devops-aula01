@@ -1,0 +1,17 @@
+Backend:
+	Php
+	MySql
+
+FrontEnd:
+
+	html5
+	css3
+	AngularJS
+	Jquery
+
+Servidor de hospedagem:
+	
+	Amazon
+
+
+.

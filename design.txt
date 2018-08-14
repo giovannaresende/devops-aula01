@@ -1,0 +1,17 @@
+- Cadastro;
+- Login adm;
+- Login user comum;
+- Esqueci minha senha
+- Timeline
+	- Botão para publicar;
+	- || editar publicação;
+	- || apagar publicação;
+	- || anexo de arquivos;
+	- || curtir o post;
+	- || comentar o post;
+	- || compartilhar;
+	- || para adicionar emojis personalizados;
+
+
+
+.

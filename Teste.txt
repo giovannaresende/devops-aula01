@@ -1,0 +1,16 @@
+- Cadastro; OK
+- Login adm; OK
+- Login user comum; OK
+- Esqueci minha senha; OK
+- Timeline
+	- Botão para publicar; OK
+	- || editar publicação; OK
+	- || apagar publicação; OK
+	- || anexo de arquivos; OK
+	- || curtir o post; OK
+	- || comentar o post; OK
+	- || compartilhar; OK
+	- || para adicionar emojis personalizados; NOK
+
+
+.
