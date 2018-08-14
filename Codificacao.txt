@@ -12,5 +12,3 @@ FrontEnd:
 Servidor de hospedagem:
 	
 	Amazon
-
-TESTE
