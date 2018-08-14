@@ -1,0 +1,13 @@
+- Cadastro; Prod
+- Login adm; Prod
+- Login user comum; Prod
+- Esqueci minha senha; Prod
+- Timeline
+	- Botão para publicar; Prod
+	- || editar publicação; Prod
+	- || apagar publicação; Prod
+	- || anexo de arquivos; Prod
+	- || curtir o post; Prod
+	- || comentar o post; Prod
+	- || compartilhar; Prod
+	- || para adicionar emojis personalizados; DOING
