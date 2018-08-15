@@ -1,11 +1,14 @@
+Nome: Felipe Luis Esteves Riego
+RA: 1801202
+
 - Cadastro; OK
 - Login adm; OK
 - Login user comum; OK
 - Esqueci minha senha; OK
 - Timeline
-	- Bot„o para publicar; OK
-	- || editar publicaÁ„o; OK
-	- || apagar publicaÁ„o; OK
+	- Bot√£o para publicar; OK
+	- || editar publica√ß√£o; OK
+	- || apagar publica√ß√£o; OK
 	- || anexo de arquivos; OK
 	- || curtir o post; OK
 	- || comentar o post; OK
