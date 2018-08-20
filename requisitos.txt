@@ -1,5 +1,6 @@
 NOME: ELISANGELA BEZERRA DA SILVA
 RA: 1801143
+
 Análise: O cliente tem em mente uma mídia social, onde serão publicados conteúdos de seu interesse.
 Nesta plataforma os usuários poderão interagir entre si por meio de comentários nos posts que somente o dono do "blog" irá publicar.
 
